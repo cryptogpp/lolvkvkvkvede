@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/sekerip.lua",
+      "source": "/pilat.lua",
       "destination": "/api/checker.js"
     }
   ]
